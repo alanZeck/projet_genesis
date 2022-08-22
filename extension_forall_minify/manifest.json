@@ -1,0 +1,18 @@
+{
+  // Required
+  "manifest_version": 3,
+  "name": "Zeck's PG extension",
+  "version": "1.0",
+  // Recommended
+  "description": "Extension pour le confort de PG",
+  "icons": {
+	"128": "img/favicons.png"
+	},
+   "author": "Zeck",
+   "content_scripts": [ 
+		{ 
+			"js": [ "js/jquery-3.5.0.min.js", "js/pg.js" ],
+			 "matches": [ "http://*.projetgenesis.com/*", "https://*.projetgenesis.com/*"]
+		 }
+	 ] 
+}
