@@ -23,4 +23,8 @@ V1.0.0
 V1.0.1
 - Réarrangement du menu des planètes en ordre croissant de création dans la page principal
 - Réarrangement du menu des planètes en ordre croissant de création dans la page des flottes
-- ajout dans la vue Empire le total de production des ressources par 24h
+- Ajout dans la vue Empire le total de production des ressources par 24h
+
+V1.0.2
+- Correction couleur rouge et verte page principal moins flashy
+- dans la page vu des planètes, les nom des planète sont maintenant cliquable et vous redirige sur la vue construction de batiment de la planète en question.
