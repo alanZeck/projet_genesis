@@ -28,3 +28,6 @@ V1.0.1
 V1.0.2
 - Correction couleur rouge et verte page principal moins flashy
 - dans la page vu des planètes, les nom des planète sont maintenant cliquable et vous redirige sur la vue construction de batiment de la planète en question.
+
+V1.0.2
+- Correction bug affichage vue empire lorsque la prod dépassais 1M
